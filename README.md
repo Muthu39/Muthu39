@@ -15,10 +15,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 # 🛡️ Cybersecurity Tech Stack
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUqXIfMA5SWejplac2niPnKswtWJYB7Ev_w&s" alt="Burp Suite" height="35" width="35"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScS_FtZSlbRSlIlBJgrm1veErbEBtLG1_FGg&s" alt="Burp Suite" height="35" width="35"/> <img src="https://getdrawings.com/free-icon/gentoo-icon-73.png" alt="Burp Suite" height="35" width="35"/> <img src="https://srv.latostadora.com/designall.dll/nmap-logo-black-and-red-black-girl-white-sleeveless-shirt--i:14138558855014138520;d:588550;w:240;b:FFFFFF;m:1.jpg" alt="Burp Suite" height="35" width="35"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUqXIfMA5SWejplac2niPnKswtWJYB7Ev_w&s" alt="Burp Suite" height="45" width="45"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScS_FtZSlbRSlIlBJgrm1veErbEBtLG1_FGg&s" alt="Burp Suite" height="45" width="45"/> <img src="https://getdrawings.com/free-icon/gentoo-icon-73.png" alt="Burp Suite" height="45" width="45"/> <img src="https://srv.latostadora.com/designall.dll/nmap-logo-black-and-red-black-girl-white-sleeveless-shirt--i:14138558855014138520;d:588550;w:240;b:FFFFFF;m:1.jpg" alt="Burp Suite" height="45" width="45"/> 
 
 ### 🖥️ Operating Systems 
-<img src="https://www.linuxadictos.com/wp-content/uploads/kali-linux-1.jpg" alt="Burp Suite" height="35" width="35"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMtVF1jRC9Mnilbtjr3_CK4hAT7Gn_eQL_A&s" alt="Burp Suite" height="35" width="35"/>
+<img src="https://w0.peakpx.com/wallpaper/174/835/HD-wallpaper-backtrack-linux-backtrack-linux-computer-logo-dark-black.jpg" alt="Kali linux" height="45" width="45"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMtVF1jRC9Mnilbtjr3_CK4hAT7Gn_eQL_A&s" alt="Windows" height="45" width="45"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muthu39/Muthu39/output/github-snake-dark.svg" />
@@ -32,12 +32,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthu39&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 🐞Bug 💰Bounty 📊Stats
+
 <p align="center">
   <img src="https://img.shields.io/badge/Bugs%20Reported-23-brightgreen?style=for-the-badge&logo=bugatti&logoColor=white" />
   <img src="https://img.shields.io/badge/Valid%20Findings-17-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/Duplicates-6-lightgrey?style=for-the-badge&logo=codefactor&logoColor=white" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Muthu39/Bug-Bounty-Reports.git">
-    <img src="https://img.shields.io/badge/See%20Reports-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/📁%20See%20Detailed%20Reports-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -45,7 +49,6 @@
 ## 🌐 Connect With ME
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmk03/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muthukkumaran003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmk03/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muthukkumaran003@gmail.com)
 
 </div>
