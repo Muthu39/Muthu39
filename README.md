@@ -18,7 +18,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUqXIfMA5SWejplac2niPnKswtWJYB7Ev_w&s" alt="Burp Suite" height="45" width="45"/> &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScS_FtZSlbRSlIlBJgrm1veErbEBtLG1_FGg&s" alt="Burp Suite" height="45" width="45"/>  &nbsp; <img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-tor-free-and-open-source-software-for-enabling-anonymous-communication-logo-color-tal-revivo.png" alt="external-tor-free-and-open-source-software-for-enabling-anonymous-communication-logo-color-tal-revivo"/>  &nbsp;  <img src="https://srv.latostadora.com/designall.dll/nmap-logo-black-and-red-black-girl-white-sleeveless-shirt--i:14138558855014138520;d:588550;w:240;b:FFFFFF;m:1.jpg" alt="Burp Suite" height="45" width="45"/> 
 
 ### 🖥️ Operating Systems 
-<img width="48" height="48" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
+<img width="52" height="52" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muthu39/Muthu39/output/github-snake-dark.svg" />
