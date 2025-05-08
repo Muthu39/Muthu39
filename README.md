@@ -18,7 +18,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUqXIfMA5SWejplac2niPnKswtWJYB7Ev_w&s" alt="Burp Suite" height="45" width="45"/>    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScS_FtZSlbRSlIlBJgrm1veErbEBtLG1_FGg&s" alt="Burp Suite" height="45" width="45"/>    <img src="https://getdrawings.com/free-icon/gentoo-icon-73.png" alt="Burp Suite" height="45" width="45"/>    <img src="https://srv.latostadora.com/designall.dll/nmap-logo-black-and-red-black-girl-white-sleeveless-shirt--i:14138558855014138520;d:588550;w:240;b:FFFFFF;m:1.jpg" alt="Burp Suite" height="45" width="45"/> 
 
 ### 🖥️ Operating Systems 
-<img src="https://i.pinimg.com/736x/87/b8/0a/87b80a1542d3eaacff9760b6c29d79e0.jpg" alt="Kali linux" height="45" width="45"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMtVF1jRC9Mnilbtjr3_CK4hAT7Gn_eQL_A&s" alt="Windows" height="45" width="45"/>
+<img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png" height="45" width="45"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMtVF1jRC9Mnilbtjr3_CK4hAT7Gn_eQL_A&s" alt="Windows" height="45" width="45"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muthu39/Muthu39/output/github-snake-dark.svg" />
