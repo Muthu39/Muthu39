@@ -12,13 +12,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 ### 🔧 Tools
-<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+<img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 # 🛡️ Cybersecurity Tech Stack
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUqXIfMA5SWejplac2niPnKswtWJYB7Ev_w&s" alt="Burp Suite" height="45" width="45"/> &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScS_FtZSlbRSlIlBJgrm1veErbEBtLG1_FGg&s" alt="Burp Suite" height="45" width="45"/>  &nbsp; <img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-tor-free-and-open-source-software-for-enabling-anonymous-communication-logo-color-tal-revivo.png" alt="external-tor-free-and-open-source-software-for-enabling-anonymous-communication-logo-color-tal-revivo"/>  &nbsp;  <img src="https://srv.latostadora.com/designall.dll/nmap-logo-black-and-red-black-girl-white-sleeveless-shirt--i:14138558855014138520;d:588550;w:240;b:FFFFFF;m:1.jpg" alt="Burp Suite" height="45" width="45"/> 
 
 ### 🖥️ Operating Systems 
-<img width="100" height="100" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
+<img width="48" height="48" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muthu39/Muthu39/output/github-snake-dark.svg" />
