@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 I'm Muthukkumaran B<br><br>💡Aspiring Web Penetration Tester & Full Stack Developer<br><br>🎓 I'm a Computer Science Engineer (4th year)<br><br>🛡️ Skilled in Web Vulnerability Assessment & OWASP Top 10<br><br>
+# 👋 I'm Muthukkumaran B
+💡Aspiring Web Penetration Tester & Full Stack Developer<br><br>🎓 I'm a Computer Science Engineer (4th year)<br><br>🛡️ Skilled in Web Vulnerability Assessment & OWASP Top 10<br><br>
 
 
 ## 🌐 Socials:
