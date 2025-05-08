@@ -15,7 +15,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 # 🛡️ Cybersecurity Tech Stack
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) <img src="https://media.licdn.com/dms/image/v2/D5612AQF9B2QYTR_5eg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1705584317236?e=2147483647&v=beta&t=A8mqqI_DZc4jOjuUKPIhl0rioTI5Zv98v-Jh58ct7-8" alt="Burp Suite" height="28" width="100"/>
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Tool-Burp%20Suite-FF6600?style=for-the-badge&logo=https://miro.medium.com/v2/resize:fit:710/1*KMYIE0A-u-DhaMm9N2ImlA.png)
+
 
 
 <picture>
