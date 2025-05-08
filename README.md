@@ -15,10 +15,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 # 🛡️ Cybersecurity Tech Stack
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUqXIfMA5SWejplac2niPnKswtWJYB7Ev_w&s" alt="Burp Suite" height="45" width="45"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScS_FtZSlbRSlIlBJgrm1veErbEBtLG1_FGg&s" alt="Burp Suite" height="45" width="45"/> <img src="https://getdrawings.com/free-icon/gentoo-icon-73.png" alt="Burp Suite" height="45" width="45"/> <img src="https://srv.latostadora.com/designall.dll/nmap-logo-black-and-red-black-girl-white-sleeveless-shirt--i:14138558855014138520;d:588550;w:240;b:FFFFFF;m:1.jpg" alt="Burp Suite" height="45" width="45"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUqXIfMA5SWejplac2niPnKswtWJYB7Ev_w&s" alt="Burp Suite" height="45" width="45"/>    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScS_FtZSlbRSlIlBJgrm1veErbEBtLG1_FGg&s" alt="Burp Suite" height="45" width="45"/>    <img src="https://getdrawings.com/free-icon/gentoo-icon-73.png" alt="Burp Suite" height="45" width="45"/>    <img src="https://srv.latostadora.com/designall.dll/nmap-logo-black-and-red-black-girl-white-sleeveless-shirt--i:14138558855014138520;d:588550;w:240;b:FFFFFF;m:1.jpg" alt="Burp Suite" height="45" width="45"/> 
 
 ### 🖥️ Operating Systems 
-<img src="https://w0.peakpx.com/wallpaper/174/835/HD-wallpaper-backtrack-linux-backtrack-linux-computer-logo-dark-black.jpg" alt="Kali linux" height="45" width="45"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMtVF1jRC9Mnilbtjr3_CK4hAT7Gn_eQL_A&s" alt="Windows" height="45" width="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYo9yv9yezN0_DamqVgd1QxAN4in3FNGO6QKbpzkLekclXPVUIp4TgPk5mK6F2AvXmBcU&usqp=CAU" alt="Kali linux" height="45" width="45"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMtVF1jRC9Mnilbtjr3_CK4hAT7Gn_eQL_A&s" alt="Windows" height="45" width="45"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muthu39/Muthu39/output/github-snake-dark.svg" />
@@ -33,17 +33,98 @@
 
 # 🐞Bug 💰Bounty 📊Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bugs%20Reported-23-brightgreen?style=for-the-badge&logo=bugatti&logoColor=white" />
-  <img src="https://img.shields.io/badge/Valid%20Findings-17-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Duplicates-6-lightgrey?style=for-the-badge&logo=codefactor&logoColor=white" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bug Bounty Stats</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
 
-<p align="center">
-  <a href="https://github.com/Muthu39/Bug-Bounty-Reports.git">
-    <img src="https://img.shields.io/badge/📁%20See%20Detailed%20Reports-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+    .card {
+      background-color: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 10px;
+      padding: 30px;
+      text-align: center;
+      color: white;
+      width: 320px;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.05);
+    }
+
+    .title {
+      font-size: 20px;
+      margin-bottom: 20px;
+      font-weight: bold;
+    }
+
+    .stat {
+      font-size: 48px;
+      color: #58a6ff;
+      margin: 10px 0;
+      font-weight: bold;
+    }
+
+    .labels {
+      display: flex;
+      justify-content: space-between;
+      margin: 20px 0;
+      font-size: 14px;
+      color: #8b949e;
+    }
+
+    .labels span {
+      flex: 1;
+    }
+
+    .labels .left {
+      text-align: left;
+    }
+
+    .labels .right {
+      text-align: right;
+    }
+
+    .report-btn {
+      background-color: #238636;
+      color: white;
+      text-decoration: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 10px;
+      transition: background-color 0.3s;
+    }
+
+    .report-btn:hover {
+      background-color: #2ea043;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="title">🐞 Bug Bounty Stats</div>
+    <div class="stat">23</div>
+    <div class="labels">
+      <span class="left">Duplicates: 6</span>
+      <span class="right">Successful: 17</span>
+    </div>
+    <a class="report-btn" href="https://github.com/Muthu39/Bug-Bounty-Reports.git" target="_blank">
+      📁 See Report
+    </a>
+  </div>
+</body>
+</html>
+
 
 
 ## 🌐 Connect With ME
