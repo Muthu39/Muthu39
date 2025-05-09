@@ -14,6 +14,7 @@
 ### 🔧 Tools
 <img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
+
 # 🛡️ Cybersecurity Tech Stack
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUqXIfMA5SWejplac2niPnKswtWJYB7Ev_w&s" alt="Burp Suite" height="45" width="45"/> &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScS_FtZSlbRSlIlBJgrm1veErbEBtLG1_FGg&s" alt="Burp Suite" height="45" width="45"/>  &nbsp; <img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-tor-free-and-open-source-software-for-enabling-anonymous-communication-logo-color-tal-revivo.png" alt="external-tor-free-and-open-source-software-for-enabling-anonymous-communication-logo-color-tal-revivo"/>  &nbsp;  <img src="https://srv.latostadora.com/designall.dll/nmap-logo-black-and-red-black-girl-white-sleeveless-shirt--i:14138558855014138520;d:588550;w:240;b:FFFFFF;m:1.jpg" alt="Burp Suite" height="45" width="45"/> 
 
@@ -38,6 +39,6 @@
 ## 🌐 Connect With ME
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmk03/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muthukkumaran003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmk03/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muthukkumaran003@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/muthu_003) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@bmkmuthu003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_muthu_003_) 
 
 </div>
