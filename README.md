@@ -35,6 +35,8 @@
 # LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/muthu003?theme=dark&font=Manrope&ext=activity)
 
+# 🐞 Bug Bounty Report Stats
+[![Bug Bounty Report Summary](https://github.com/Muthu39/Bug-Bounty-Reports/report-temp.svg)](https://github.com/Muthu39/Bug-Bounty-Reports.git)
 
 ## 🌐 Connect With ME
 <div align="center">
