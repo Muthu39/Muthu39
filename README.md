@@ -1,5 +1,5 @@
 # 👋 I'm Muthukkumaran B
-💡Aspiring Web Penetration Tester & Full Stack Developer<br><br>🎓 I'm a Computer Science Engineer (4th year)<br><br>🛡️ Skilled in Web Vulnerability Assessment & OWASP Top 10<br><br>
+I’m an aspiring ethical hacker and full stack developer with a passion for building secure, high-performance web applications. Currently in my 4th year of a Computer Science degree, I specialize in web vulnerability assessment and have hands-on experience with the OWASP Top 10. My work spans both development and cybersecurity—designing robust systems by day and participating in bug bounty programs by night. With a strong foundation in secure coding practices, vulnerability testing, and real-world exploitation techniques, I aim to contribute to the digital space by making it both functional and secure.<br><br>
 
 # 💻 Developer Tech Stack
 ### ⌨️​ Programming Languages
