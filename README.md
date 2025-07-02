@@ -31,6 +31,8 @@ I’m an aspiring ethical hacker and full-stack developer with a passion for bui
 ![](https://github-readme-stats.vervcel.app/api?username=Muthu39&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Muthu39&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthu39&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Muthu39&layout=compact&theme=dark)](https://wakatime.com/@Muthu39)
+
 
 # LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/muthu003?theme=dark&font=Manrope&ext=activity)
