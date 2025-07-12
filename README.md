@@ -28,8 +28,7 @@ I’m an aspiring ethical hacker and full-stack developer with a passion for bui
 </picture>
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vervcel.app/api?username=Muthu39&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Muthu39&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthu39&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
