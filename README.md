@@ -31,13 +31,15 @@ I’m an aspiring ethical hacker and full-stack developer with a passion for bui
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthu39&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+<!--
 
 # LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/muthu003?theme=dark&font=Manrope&ext=activity)
 
 # 🐞 Bug Bounty Report Stats
 [![SVG Report](https://raw.githubusercontent.com/Muthu39/Bug-Bounty-Reports/main/report-temp.svg)](https://github.com/Muthu39/Bug-Bounty-Reports)
+
+-->
 
 ## 🌐 Connect With ME
 <div align="center">
