@@ -27,11 +27,13 @@ I’m an aspiring ethical hacker and full-stack developer with a passion for bui
   <img alt="github-snake" src="https://raw.githubusercontent.com/Muthu39/Muthu39/output/github-snake.svg" />
 </picture>
 
+<!--
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthu39&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!--
+
 
 # LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/muthu003?theme=dark&font=Manrope&ext=activity)
